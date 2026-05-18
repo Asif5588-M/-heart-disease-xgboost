@@ -6,13 +6,15 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-deployed-red)
 
 ## Problem Statement
-<!-- Describe the problem you are solving -->
+Heart disease is one of the leading causes of death worldwide. 
+This project predicts whether a patient has heart disease based 
+on 13 clinical features using XGBoost classifier.
 
 ## Dataset
-- **Source:** Kaggle — [Dataset Name](link-here)
-- **Rows:** ...
-- **Features:** ...
-- **Target:** ...
+- **Source:** Kaggle — [Heart Disease UCI](https://www.kaggle.com/datasets/ronitf/heart-disease-uci)
+- **Rows:** 303 patients
+- **Features:** 13 (age, sex, cp, trestbps, chol, fbs, restecg, thalach, exang, oldpeak, slope, ca, thal)
+- **Target:** 1 = Heart Disease, 0 = No Disease
 
 ## Model Used
 ## Model Used
@@ -72,4 +74,4 @@ streamlit run app.py
 <!-- Add confusion matrix screenshot or accuracy chart here -->
 
 ## Author
-[Your Name] — [GitHub](https://github.com/YOUR_USERNAME) | [Upwork Profile](link)
+Asif Malik — [GitHub](https://github.com/Asif5588-M) | [Upwork Profile](your-upwork-link)
