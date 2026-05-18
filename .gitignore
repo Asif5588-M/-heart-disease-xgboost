@@ -25,10 +25,6 @@ data/raw/*.zip
 data/raw/*.json
 data/processed/*.csv
 
-# Models (large)
-models/*.pkl
-models/*.h5
-models/*.joblib
 
 # OS
 .DS_Store
