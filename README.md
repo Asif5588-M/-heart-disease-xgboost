@@ -15,9 +15,15 @@
 - **Target:** ...
 
 ## Model Used
-| Model | Accuracy | Precision | Recall | F1 Score |
-|-------|----------|-----------|--------|----------|
-| XGBoost | xx% | xx% | xx% | xx% |
+## Model Used
+| Model | Accuracy | ROC-AUC | Recall (Disease) |
+|-------|----------|---------|-----------------|
+| XGBoost | 81.97% | 87.66% | 97% |
+
+## Key Insights
+- **thal** and **cp** are the most important features
+- Model achieves **97% recall** for Heart Disease detection — critical for medical use
+- Balanced dataset: 165 positive, 138 negative cases
 
 ## Project Structure
 ```
