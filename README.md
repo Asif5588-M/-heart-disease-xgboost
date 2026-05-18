@@ -59,7 +59,7 @@ streamlit run app.py
 ```
 
 ## Live Demo
-- Streamlit Cloud: [link-here]
+- Streamlit Cloud: https://ntfmyelqo49uezqwapkwbd.streamlit.app
 - HuggingFace Spaces: [link-here]
 
 ## Tech Stack
