@@ -1,0 +1,13 @@
+# Core ML
+numpy
+pandas
+scikit-learn
+xgboost
+matplotlib
+seaborn
+
+# App
+streamlit
+
+# Utils
+joblib
